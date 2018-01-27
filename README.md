@@ -1,1 +1,2 @@
-My first commit is about to happen.
+I'm Ruud Cox.
+I'm about to experiment with GitHub.
